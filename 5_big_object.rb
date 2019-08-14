@@ -1,6 +1,6 @@
 # Goal: Starting with shopping_centre, get back the string '29%'
 
-# require 'pry'
+require 'pry'
 # To use pry:
 # 1. > gem install pry
 # 2. Uncomment line 3 (require 'pry')
@@ -55,4 +55,6 @@ shopping_centre = {
     }
 }
 
-# binding.pry
+binding.pry
+
+puts 'Your code will stop here. Now type the variable shopping_centre. You can then access values in that hash'
