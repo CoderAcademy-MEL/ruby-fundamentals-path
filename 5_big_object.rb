@@ -57,4 +57,4 @@ shopping_centre = {
 
 binding.pry
 
-puts 'Your code will stop here. Now type the variable shopping_centre. You can then access values in that hash'
+puts 'Your code will stop here. Now type the variable shopping_centre. You can then access values in the shopping_centre hash. The goal is to get to the string 29% which is in the variable squash. Read whats happening going on with the class and instance variables carefully'
